@@ -6,11 +6,10 @@
 
 🛠️ Tecnologias
 - JavaScript
-- React / Next.js (Aprimorando)
 - HTML / CSS 
 - Git & GitHub
 
-🔜 Próximos passos
+🔜 Próximos passos (Estudando)
 - React
 - Tailwind CSS
 - Next.js
