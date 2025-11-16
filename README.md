@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Olá, eu sou o Gabriel!
 
-<!--
-**gabr1elcodes/gabr1elcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-end focado em JavaScript, TypeScript, React, Next.js e Tailwind
+🎯 Objetivo: Me tornar um Dev Full Stack  
+📍 São Paulo – Brasil  
 
-Here are some ideas to get you started:
+🛠️ Tecnologias
+- JavaScript
+- React / Next.js (Aprimorando)
+- HTML / CSS 
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔜 Próximos passos
+- React
+- Tailwind CSS
+- Next.js
+- Node.js
+- TypeScript
+
+📌 Projetos em destaque
+🔗 CronosTimer – Cronômetro com visual neon e responsivo
+🔗 Meu Login Page – tela de login responsiva e moderna
+🔗 Portfólio Pessoal
+
+📫 Contato
+📧 gabrieloliveira30p@gmail.com  
+🌐 https://gabrielcodes.github.io/gabriel.portfolio.dev
