@@ -1,8 +1,6 @@
 👋 Olá, eu sou o Gabriel!
-
 🚀 Desenvolvedor Front-end focado em JavaScript, TypeScript, React, Next.js e Tailwind
-🎯 Objetivo: Me tornar um Dev Full Stack  
-📍 São Paulo – Brasil  
+🎯 Objetivo: Me tornar um Dev Full Stack   
 
 🛠️ Tecnologias
 - JavaScript
