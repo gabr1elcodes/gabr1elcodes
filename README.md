@@ -21,4 +21,3 @@
 
 📫 Contato
 📧 gabrieloliveira30p@gmail.com  
-🌐 https://gabrielcodes.github.io/gabriel.portfolio.dev
