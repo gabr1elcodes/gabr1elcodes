@@ -6,8 +6,6 @@
 - JavaScript
 - HTML / CSS 
 - Git & GitHub
-
-🔜 Próximos passos (Estudando)
 - React
 - Tailwind CSS
 - Next.js
