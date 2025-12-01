@@ -13,8 +13,8 @@
 - TypeScript
 
 📌 Projetos em destaque
-🔗 CronosTimer – Cronômetro com visual neon e responsivo
-🔗 Meu Login Page – tela de login responsiva e moderna
+🔗 CronosTimer
+🔗 Meu Login Page
 🔗 Portfólio Pessoal
 
 📫 Contato
