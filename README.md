@@ -18,4 +18,5 @@
 🔗 Portfólio Pessoal
 
 📫 Contato
-📧 gabrieloliveira30p@gmail.com  
+📧 gabrieloliveira30p@gmail.com  /  Curriculo: 
+[Curriculo_Gabriel_Oliveira.pdf](https://github.com/user-attachments/files/24086132/Curriculo_Gabriel_Oliveira.pdf)
