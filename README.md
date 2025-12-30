@@ -13,6 +13,7 @@
 - TypeScript
 
 📌 Projetos em destaque
+🔗 Tech-Focus
 🔗 CronosTimer
 🔗 Meu Login Page
 🔗 Portfólio Pessoal
