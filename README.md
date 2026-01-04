@@ -7,8 +7,9 @@
 - Git & GitHub
 - React
 - Tailwind CSS
-- Next.js
+- Express
 - Node.js
+- MongoDB
 - TypeScript
 
 📌 Projetos em destaque
