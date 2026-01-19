@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Gabriel!
-🚀 Full Stack Developer. Focado em React & Nodejs
+🚀 Desenvolvedor Full Stack • React & Nodejs
 
 🛠️ Linguagens e Tecnologias
 
