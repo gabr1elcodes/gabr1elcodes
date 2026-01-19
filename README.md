@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Gabriel!
-🚀 Front-end Developer. Focado em JavaScript, TypeScript, React e TailwindCSS
+🚀 Full Stack Developer. Focado em React & Nodejs
 
 🛠️ Linguagens e Tecnologias
 
