@@ -62,11 +62,29 @@
 <img 
     align="left" 
     alt="NODEjs"
-    title="NODEJS" 
+    title="NodeJS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<br/>
+<br/>
 
 📌 Projetos em destaque
 🔗 Tech-Focus
