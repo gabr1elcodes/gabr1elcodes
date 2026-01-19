@@ -83,6 +83,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+<img 
+    align="left" 
+    alt="API Rest"
+    title="API Rest" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apirest/apirest-original.svg" 
+/>
 <br/>
 <br/>
 
