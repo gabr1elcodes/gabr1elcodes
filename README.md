@@ -95,3 +95,16 @@
 📫 Contato
 📧 gabrieloliveira30p@gmail.com  /  👉 Curriculo: 
 [Curriculo_Gabriel_Oliveira.pdf](https://github.com/user-attachments/files/24086132/Curriculo_Gabriel_Oliveira.pdf)
+
+<br/>
+<br/>
+📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
