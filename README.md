@@ -1,5 +1,8 @@
 👋 Olá, eu sou o Gabriel!
-🚀 Desenvolvedor Full Stack • React & Nodejs
+🚀 Desenvolvedor Full Stack • React & Node.js
+
+Construo aplicações web completas, do frontend ao backend, com foco em organização, boas práticas e experiência do usuário.
+
 
 🛠️ Linguagens e Tecnologias
 
