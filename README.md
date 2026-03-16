@@ -97,8 +97,7 @@ Construo aplicações web completas, do frontend ao backend, com foco em organiz
 
 
 📫 Contato
-📧 gabrieloliveira30p@gmail.com  /  👉 Curriculo: 
-[GabrielOliveira-Curriculo.pdf](https://github.com/user-attachments/files/26032902/GabrielOliveira-Curriculo.pdf)
-
+📧 gabrieloliveira30p@gmail.com / <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12db9b35-5d1a-4c93-8656-09b0c572d6a9" />
+Curriculo:[GabrielOliveira-Curriculo.pdf](https://github.com/user-attachments/files/26032990/GabrielOliveira-Curriculo.pdf)
 
 
